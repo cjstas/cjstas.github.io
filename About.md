@@ -1,5 +1,7 @@
 # About Me
 ## Education
+### John Adams High School, South Bend IN (2013-2017)
+- International Baccalaureate program
 ### Ball State University, Muncie IN (2017-Present)
 - Bachelors of Science in Computer Science
  - Programming language conventions
