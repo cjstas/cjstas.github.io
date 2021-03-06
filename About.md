@@ -15,6 +15,16 @@
   - Worked within Scrum Environment
   - Experience seeking and contacting relevant individuals within a large company
   - Designed Methodology for organizing large quantities of unorganized User Stories into Features
+## Technical Skills
+- IDEs
+ - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+ - [Eclipse](https://www.eclipse.org/ide/)
+ - [Visual Studio] (https://visualstudio.microsoft.com/)
+- Programming Languages
+ - C#
+ - Java
+ - Python
+ - Lua
 ## Volunteer Work
 - Lead in planning and building of Bat Habitation Boxes at [Fernwood Botanical Gardens](https://www.fernwoodbotanical.org/) -- March 2017
 - Helped Boy Scout Troops with Volunteer work and helped lead
