@@ -19,7 +19,7 @@
 - IDEs
  - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
  - [Eclipse](https://www.eclipse.org/ide/)
- - [Visual Studio] (https://visualstudio.microsoft.com/)
+ - [Visual Studio](https://visualstudio.microsoft.com/)
 - Programming Languages
  - C#
  - Java
