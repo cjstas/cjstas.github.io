@@ -1,20 +1,21 @@
 theme: jekyll-theme-slate
 title: Christo Staszewski
-description: <html><style>
+description: <html>
+<style>
 a:link {
-  color: white;
+  color: gray;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: white;
+  color: gray;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: gray;
+  color: lightgray;
   background-color: transparent;
   text-decoration: none;
 }
@@ -25,5 +26,7 @@ a:active {
   text-decoration: none;
 }
 
-</style><a href="https://cjstas.github.io/Contact">Contact Me</a><a href="https://cjstas.github.io/About">About Me</a>
+</style>
+<a href="https://cjstas.github.io/Contact">Contact Me</a>
+<a href="https://cjstas.github.io/About">About Me</a>
 </html>
