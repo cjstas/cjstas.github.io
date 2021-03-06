@@ -16,11 +16,13 @@ a:visited {
 a:hover {
   color: gray;
   background-color: transparent;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 a:active {
   color: white;
   background-color: transparent;
-  text-decoration: underline;
-}</style><a href="https://cjstas.github.io/Contact">Contact Me</a>
+  text-decoration: none;
+}
+
+</style><a href="https://cjstas.github.io/Contact">Contact Me</a>
