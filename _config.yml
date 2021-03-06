@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 title: Christo Staszewski
-description: <style>
+description: <html><style>
 a:link {
   color: white;
   background-color: transparent;
@@ -26,3 +26,4 @@ a:active {
 }
 
 </style><a href="https://cjstas.github.io/Contact">Contact Me</a><a href="https://cjstas.github.io/About">About Me</a>
+</html>
