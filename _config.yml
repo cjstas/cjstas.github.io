@@ -1,3 +1,3 @@
 theme: jekyll-theme-slate
 title: Christo Staszewski
-description: <html><style>a:link {color: gray;background-color: transparent;text-decoration: none;}a:visited {color: gray;background-color: transparent;text-decoration: none;}a:hover {color: lightgray;background-color: transparent;text-decoration: none;}a:active {color: white;background-color: transparent;text-decoration: none;}</style><a href="https://cjstas.github.io/Contact">Contact Me</a><a href="https://cjstas.github.io/About">About Me</a></html>
+description: <a href="https://cjstas.github.io/Contact" style = "text-decoration: none;color: white;">Contact Me</a><a href="https://cjstas.github.io/About">About Me</a>
